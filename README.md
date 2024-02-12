@@ -5,7 +5,7 @@
 
 ## My brief CV    
 
-- **Data Science Ph.D. Candidate**
+- **Data Science Ph.D. Student**
 
 - **Internship**: I did a summer internship at [Fisrt Solar](https://www.firstsolar.com/). For my project, I harnessed the power of ML techniques to develop actionable models and analytics for the benefit of DE rganizations.  
 
