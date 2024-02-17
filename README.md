@@ -6,6 +6,8 @@
 ## My brief CV    
 
 - **Data Science Ph.D. Student**
+- **MSc in Applied Statistics and Operation Research**
+- **MSc in Physics**
 
 - **Internship**: I did a summer internship at [Fisrt Solar](https://www.firstsolar.com/). For my project, I harnessed the power of ML techniques to develop actionable models and analytics for the benefit of DE rganizations.  
 
