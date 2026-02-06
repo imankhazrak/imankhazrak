@@ -5,7 +5,7 @@
 
 ## My brief CV    
 
-- **Data Science Ph.D. Student**
+- **Data Science Ph.D. Candidate**
 - **MSc in Applied Statistics and Operation Research**
 - **MSc in Physics**
 
